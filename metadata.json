@@ -1,0 +1,6 @@
+{
+  "name": "Dialer",
+  "description": "Minimalist pastel phone and dialer application with real calling, contacts, and call history",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
